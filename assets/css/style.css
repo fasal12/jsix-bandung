@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container-fluid {
+	margin: 0px;
+	padding: 0px;
+}
+
+.carousel-item img {
+	margin: 0 auto;
+	max-height: 500px;
+	width: 70%;
+}
+
+.carousel-item {
+	background-color: #62f442;
+}
+
+.navbar ul {
+	margin-left: 60%;
+}
+
+.navbar-nav a {
+	margin-left: 20%;
+	color: white;
+}
+
+.footer-bottom {
+    background-color: #15224f;
+    min-height: 30px;
+    width: 100%;
+}
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+
+.margin {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.margin-article {
+	margin-top: 30px;
+	margin-right: 25%;
+	margin-bottom: 30px;
+}
+
+.margin-article p {
+	text-align: justify;
+}
+
+.margin-article img {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.margin-article ul {
+	margin-left: 25px;
+}
+
+.margin-article ol {
+	margin-left: 25px;
+}
+
+.margin-card {
+	margin-top: 20px;
+}
+
+.widget-tebaru ul {
+	list-style: none;
+}
+
+.widget-terbaru ul li {
+	overflow: hidden;
+	margin-bottom: 4%;
+}
+
+.gambar-widget img {
+	width: 40%;
+	float: left;
+	margin-right: 2%;
+	margin-top: 8px;
+}
+
+.widget {
+	float: right;
+	margin-left: 2%;
+}
+
+.judul-widget a {
+	color: black;
+}
+
+
+.judul-wiget a:hover {
+	text-decoration: blink;
+}
+
+.widget h3 {
+	margin-left: 20px;
+}
+
+.card-deck {
+	margin-top: 3%;
+}
